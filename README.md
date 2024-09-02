@@ -1,1 +1,1 @@
-# S8B888GAMBLEFI-Staking-Contract
+# S8B-Staking-Contract
